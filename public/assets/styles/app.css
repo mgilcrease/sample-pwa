@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Roboto";
+	src: url("../fonts/Roboto/Roboto-Regular.ttf");
+	font-weight: 600;
+	font-style: normal;
+}
+
+html {
+	font-family: "Roboto";
+}
+
+.kr0ntech-logo {
+	width: 250px;
+}
