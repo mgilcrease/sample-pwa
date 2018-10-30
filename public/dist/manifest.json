@@ -1,7 +1,11 @@
 {
   "app.js": "app.bundle.js",
+  "../assets/lib/jquery.min.js": "../assets/lib/jquery.min.js",
+  "../assets/lib/lodash.min.js": "../assets/lib/lodash.min.js",
   "Roboto-Regular.ttf": "3e1af3ef546b9e6ecef9f3ba197bf7d2.ttf",
   "favicon.ico": "favicon.ico",
   "index.html": "index.html",
-  "kr0ntech-logo.png": "kr0ntech-logo.png"
+  "kr0ntech-logo.png": "kr0ntech-logo.png",
+  "precache-manifest.99dc038e6c7378decb12d3adc1d2592b.js": "precache-manifest.99dc038e6c7378decb12d3adc1d2592b.js",
+  "service-worker.js": "service-worker.js"
 }
